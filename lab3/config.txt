@@ -1,0 +1,6 @@
+text_file = ./lab3/text.txt
+dest_lang=en
+output=file
+max_chars=2000
+max_words=500
+max_sentences=30
